@@ -1,6 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <mysql.h>
+/*
 int main() {
 	MYSQL* conn;
 	MYSQL_RES* res;
@@ -26,3 +27,4 @@ int main() {
 	mysql_close(conn);
 	return 0;
 }
+*/
